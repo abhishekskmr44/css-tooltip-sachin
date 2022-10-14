@@ -7,8 +7,8 @@ body{
 }
 
 .avatar {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
     background-image: url('https://media.gettyimages.com/photos/sachin-tendulkar-of-india-celebrates-his-double-century-during-day-picture-id2842042?s=612x612');
     background-size: cover;
